@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jayesh.kushwaha25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O_mY-tuBp9BxtGJb3Exryp-W5fXNe-3M/view?usp=drive_link](https://drive.google.com/file/d/1O_mY-tuBp9BxtGJb3Exryp-W5fXNe-3M/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17NIfk43miouW9LAK6sFt3-MICZsavcEz/view?usp=sharing](https://drive.google.com/file/d/17NIfk43miouW9LAK6sFt3-MICZsavcEz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
