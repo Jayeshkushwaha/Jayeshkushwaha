@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Kushwaha</h1>
-<h3 align="center">Passionate React Native Developer with 2 years of experience in developing user-friendly mobile applications.</h3>
+<h3 align="center">Passionate React Native Developer with 2.6 years of experience in developing user-friendly mobile applications.</h3>
 
 - 📫 How to reach me **jayesh.kushwaha25@gmail.com**
 
