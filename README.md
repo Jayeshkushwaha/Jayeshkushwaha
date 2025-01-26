@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Kushwaha</h1>
 <h3 align="center">Passionate React Native Developer with 2.6 years of experience in developing user-friendly mobile applications.</h3>
 
-- 📫 How to reach me **jayesh.kushwaha25@gmail.com**
+- 📫 Gmail :- **jayesh.kushwaha25@gmail.com**
 
-- 👨‍💻 All of my projects are available at [jayeshkushwaha.github.io/React/](https://jayeshkushwaha.github.io/React/)
+- 👨‍💻 Portfolio :- [jayeshkushwaha.github.io/React/](https://jayeshkushwaha.github.io/React/)
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1EJClOnnJu232ljluOV1RRnTYgECfUM5d/view?usp=sharing
+- 📄 Resume :- https://drive.google.com/file/d/1EJClOnnJu232ljluOV1RRnTYgECfUM5d/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
