@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [jayeshkushwaha.github.io/React/](https://jayeshkushwaha.github.io/React/)
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1nCj7iFptfIa1_-KUl5Oj4JHN9y1tNpfN/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1EJClOnnJu232ljluOV1RRnTYgECfUM5d/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
