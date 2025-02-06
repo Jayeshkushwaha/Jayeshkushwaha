@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfolio :- [jayeshkushwaha.github.io/React/](https://jayeshkushwaha.github.io/React/)
 
-- 📄 Resume :- https://drive.google.com/file/d/1innp16lvGfrZygSGpOdR1hPAT2UyQRW_/view?usp=sharing
+- 📄 Resume :- https://drive.google.com/file/d/1kJygifRgrpbQ0iDR3mNVATPjXf8_nqnR/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
